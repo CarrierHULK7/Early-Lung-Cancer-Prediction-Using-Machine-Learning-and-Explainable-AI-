@@ -1,0 +1,7 @@
+Dataset Name: Survey Lung Cancer Dataset
+Source: Kaggle
+URL: https://www.kaggle.com/datasets/nancyalaswad90/lung-cancer
+
+Note:
+The dataset is not included in this repository due to licensing constraints.
+Please download it directly from Kaggle using the above link.
