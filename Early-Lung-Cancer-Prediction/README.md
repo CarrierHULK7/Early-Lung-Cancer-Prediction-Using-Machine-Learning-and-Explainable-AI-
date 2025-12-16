@@ -3,6 +3,13 @@
 ## Overview
 This project implements an end-to-end machine learning pipeline to predict lung cancer at an early stage using survey-based patient data. Multiple machine learning models were trained and evaluated, and the best-performing model was selected. Explainable AI (XAI) techniques using SHAP were applied to interpret model predictions.
 
+## Project Report
+The detailed project report for this work is available directly in this repository:
+
+- **Early Lung Cancer Prediction Report SE25MBDS011.pdf**
+
+The report contains the complete methodology, results, visualizations, and explanations corresponding to the implementation in the Jupyter notebook.
+
 ## Dataset
 - Source: Kaggle – Survey Lung Cancer Dataset
 - Each record represents a patient with symptoms and lifestyle attributes
